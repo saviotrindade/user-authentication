@@ -1,0 +1,6 @@
+[submodule "user-authentication-frontend"]
+	path = user-authentication-frontend
+	url = git@github.com:saviotrindade/user-authentication-frontend.git
+[submodule "user-authentication-backend"]
+	path = user-authentication-backend
+	url = git@github.com:saviotrindade/user-authentication-backend.git
