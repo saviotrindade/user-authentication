@@ -14,7 +14,7 @@ Este repositório contém o código-fonte para um projeto de autenticação de u
 ## Como Usar
 
 1. **Clone este repositório**:
-   git clone https://github.com/seu-usuario/projeto-auth.git
+   git clone https://github.com/saviotrindade/user-authentication
 
 2. **Inicialize e atualize os submódulos**:
 cd user-authentication
